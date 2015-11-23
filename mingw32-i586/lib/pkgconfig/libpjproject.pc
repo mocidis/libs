@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=../../libs/mingw32-i586
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libpjproject
+Description: Multimedia communication library
+URL: http://www.pjsip.org
+Version: 2.4
+Libs: -L${libdir} -lpjsua2-i586-pc-mingw32 -lstdc++ -lpjsua-i586-pc-mingw32 -lpjsip-ua-i586-pc-mingw32 -lpjsip-simple-i586-pc-mingw32 -lpjsip-i586-pc-mingw32 -lpjmedia-codec-i586-pc-mingw32 -lpjmedia-i586-pc-mingw32 -lpjmedia-videodev-i586-pc-mingw32 -lpjmedia-audiodev-i586-pc-mingw32 -lpjmedia-i586-pc-mingw32 -lpjnath-i586-pc-mingw32 -lpjlib-util-i586-pc-mingw32  -lsrtp-i586-pc-mingw32 -lresample-i586-pc-mingw32 -lgsmcodec-i586-pc-mingw32 -lspeex-i586-pc-mingw32 -lilbccodec-i586-pc-mingw32 -lg7221codec-i586-pc-mingw32 -lportaudio-i586-pc-mingw32  -lpj-i586-pc-mingw32 -lm -lwinmm -lole32 -lws2_32 -lwsock32 
+Cflags: -I${includedir} -DPJ_AUTOCONF=1	-O2 -DPJ_IS_BIG_ENDIAN=0 -DPJ_IS_LITTLE_ENDIAN=1
