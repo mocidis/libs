@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/5063/pjproject/tags/2.4/pjsip/include/pjsua-lib
+END
+pjsua_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/5063/pjproject/tags/2.4/pjsip/include/pjsua-lib/pjsua_internal.h
+END
+pjsua.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/5063/pjproject/tags/2.4/pjsip/include/pjsua-lib/pjsua.h
+END
