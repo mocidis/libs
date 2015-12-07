@@ -1,5 +1,5 @@
-prefix=/usr
-exec_prefix=/usr
+prefix=/root/workspace/ics-project/asound/../libs/linux-i686
+exec_prefix=/root/workspace/ics-project/asound/../libs/linux-i686
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
 
