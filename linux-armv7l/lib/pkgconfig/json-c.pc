@@ -1,4 +1,4 @@
-prefix=/root/workspace/ics-project/json-c/output.arm
+prefix=/root/workspace/ics-project/json-c/../libs/linux-armv7l
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

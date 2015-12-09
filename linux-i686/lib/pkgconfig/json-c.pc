@@ -1,4 +1,4 @@
-prefix=/root/workspace/ics-project/json-c/output
+prefix=/root/workspace/ics-project/json-c/../libs/linux-i686
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
