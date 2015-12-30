@@ -28,7 +28,7 @@
  */
 
 /* Canonical OS name */
-#define PJ_OS_NAME "arm-none-linux-gnueabi"
+#define PJ_OS_NAME "arm-unknown-linux-gnueabihf"
 
 /* Legacy macros */
 /* #undef PJ_WIN32 */
